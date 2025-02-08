@@ -1,6 +1,7 @@
 {
   "powerPlatformSolutionFolder": "CoffeMR",
   "type": "PTE",
-  "templateUrl": "https://github.com/Microsoft/al-go-pte@preview",
-  "MicrosoftTelemetryConnectionString": ""
+  "templateUrl": "https://github.com/businesscentralapps/tmpYrNVDZ-PTE@main",
+  "MicrosoftTelemetryConnectionString": "",
+  "templateSha": "04c17cbd2cc60e73f2a588ffa6ec4696ca938f38"
 }
